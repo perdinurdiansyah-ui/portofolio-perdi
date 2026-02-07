@@ -405,9 +405,14 @@ footer .credit a {
 }
 
 /* hp */
-@media (max-width: 425px) {
+@media (max-width: 360px) {
   html {
     font-size: 55%;
+  }
+}
+@media (max-width: 320px) {
+  html {
+    font-size: 45%;
   }
 }
 
